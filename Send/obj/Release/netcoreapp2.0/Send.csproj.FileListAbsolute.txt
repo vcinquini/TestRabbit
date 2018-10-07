@@ -1,0 +1,11 @@
+D:\Projetos\TestRabbit\Send\bin\Release\netcoreapp2.0\Send.deps.json
+D:\Projetos\TestRabbit\Send\bin\Release\netcoreapp2.0\Send.runtimeconfig.json
+D:\Projetos\TestRabbit\Send\bin\Release\netcoreapp2.0\Send.runtimeconfig.dev.json
+D:\Projetos\TestRabbit\Send\bin\Release\netcoreapp2.0\Send.dll
+D:\Projetos\TestRabbit\Send\bin\Release\netcoreapp2.0\Send.pdb
+D:\Projetos\TestRabbit\Send\obj\Release\netcoreapp2.0\Send.csprojResolveAssemblyReference.cache
+D:\Projetos\TestRabbit\Send\obj\Release\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+D:\Projetos\TestRabbit\Send\obj\Release\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+D:\Projetos\TestRabbit\Send\obj\Release\netcoreapp2.0\Send.AssemblyInfo.cs
+D:\Projetos\TestRabbit\Send\obj\Release\netcoreapp2.0\Send.dll
+D:\Projetos\TestRabbit\Send\obj\Release\netcoreapp2.0\Send.pdb

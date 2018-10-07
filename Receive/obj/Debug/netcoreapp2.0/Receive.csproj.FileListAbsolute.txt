@@ -1,0 +1,11 @@
+D:\Projetos\TestRabbit\Receive\bin\Debug\netcoreapp2.0\Receive.deps.json
+D:\Projetos\TestRabbit\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.json
+D:\Projetos\TestRabbit\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.dev.json
+D:\Projetos\TestRabbit\Receive\bin\Debug\netcoreapp2.0\Receive.dll
+D:\Projetos\TestRabbit\Receive\bin\Debug\netcoreapp2.0\Receive.pdb
+D:\Projetos\TestRabbit\Receive\obj\Debug\netcoreapp2.0\Receive.csproj.CoreCompileInputs.cache
+D:\Projetos\TestRabbit\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfoInputs.cache
+D:\Projetos\TestRabbit\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfo.cs
+D:\Projetos\TestRabbit\Receive\obj\Debug\netcoreapp2.0\Receive.dll
+D:\Projetos\TestRabbit\Receive\obj\Debug\netcoreapp2.0\Receive.pdb
+D:\Projetos\TestRabbit\Receive\obj\Debug\netcoreapp2.0\Receive.csprojAssemblyReference.cache

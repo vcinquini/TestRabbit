@@ -1,0 +1,11 @@
+D:\Projetos\TestRabbit\ReceiveLogTxt\bin\Debug\netcoreapp2.0\ReceiveLogTxt.deps.json
+D:\Projetos\TestRabbit\ReceiveLogTxt\bin\Debug\netcoreapp2.0\ReceiveLogTxt.runtimeconfig.json
+D:\Projetos\TestRabbit\ReceiveLogTxt\bin\Debug\netcoreapp2.0\ReceiveLogTxt.runtimeconfig.dev.json
+D:\Projetos\TestRabbit\ReceiveLogTxt\bin\Debug\netcoreapp2.0\ReceiveLogTxt.dll
+D:\Projetos\TestRabbit\ReceiveLogTxt\obj\Debug\netcoreapp2.0\ReceiveLogTxt.csproj.CoreCompileInputs.cache
+D:\Projetos\TestRabbit\ReceiveLogTxt\obj\Debug\netcoreapp2.0\ReceiveLogTxt.AssemblyInfoInputs.cache
+D:\Projetos\TestRabbit\ReceiveLogTxt\obj\Debug\netcoreapp2.0\ReceiveLogTxt.AssemblyInfo.cs
+D:\Projetos\TestRabbit\ReceiveLogTxt\bin\Debug\netcoreapp2.0\ReceiveLogTxt.pdb
+D:\Projetos\TestRabbit\ReceiveLogTxt\obj\Debug\netcoreapp2.0\ReceiveLogTxt.csprojResolveAssemblyReference.cache
+D:\Projetos\TestRabbit\ReceiveLogTxt\obj\Debug\netcoreapp2.0\ReceiveLogTxt.dll
+D:\Projetos\TestRabbit\ReceiveLogTxt\obj\Debug\netcoreapp2.0\ReceiveLogTxt.pdb
